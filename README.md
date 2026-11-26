@@ -134,4 +134,9 @@ I believe in pragmatic engineering, simplicity in design, continuous learning, a
 
 ## Connect With Me
 
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/badal-baidya/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/badalb)
+
